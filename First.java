@@ -23,12 +23,6 @@ public class First {
 
 
 
-int  x = 2024;
-        if( x % 4==0 );
-      {
-           return true;
-        }else {
-            return false;
         }
 
 
@@ -37,5 +31,5 @@ int  x = 2024;
 
 
 
+
     }
-}
